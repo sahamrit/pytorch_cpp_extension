@@ -5,7 +5,7 @@
             "includePath": [
                 "${default}",
                 "/scratch/workspaceblobstore/LocalUpload/User/sahuamrit/Repo/libtorch/include/",
-                "/scratch/workspaceblobstore/LocalUpload/User/sahuamrit/Repo/libtorch/include/torch/csrc/api/include/**"
+                "/scratch/workspaceblobstore/LocalUpload/User/sahuamrit/Repo/libtorch/include/torch/csrc/api/include/"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/gcc",
