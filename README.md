@@ -11,8 +11,12 @@ For python install a conda environment with [pytorch](https://pytorch.org/)
 
 # Checkpoint Branches
 
-## Checkpoint 1 : Use nn Module for Custom Operator
+## Checkpoint 1 : Use nn Module for custom operator
 
 In branch [v1_nn_module](https://github.com/sahamrit/pytorch_cpp_extension/tree/v1_nn_module)
+
+## Checkpoint 2 : Use cpp extension for custom operator
+
+In branch [v2_cpp_extension](https://github.com/sahamrit/pytorch_cpp_extension/tree/v2_cpp_extension)
 
 
