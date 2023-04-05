@@ -19,4 +19,8 @@ In branch [v1_nn_module](https://github.com/sahamrit/pytorch_cpp_extension/tree/
 
 In branch [v2_cpp_extension](https://github.com/sahamrit/pytorch_cpp_extension/tree/v2_cpp_extension)
 
+## Checkpoint 3 : Use cuda extension for custom operator
+
+In branch [v3_cuda_extension](https://github.com/sahamrit/pytorch_cpp_extension/tree/v3_cuda_extension)
+
 
