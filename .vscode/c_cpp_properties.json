@@ -4,8 +4,8 @@
             "name": "Linux",
             "includePath": [
                 "${default}",
-                "/scratch/workspaceblobstore/LocalUpload/User/sahuamrit/Repo/libtorch/include/",
-                "/scratch/workspaceblobstore/LocalUpload/User/sahuamrit/Repo/libtorch/include/torch/csrc/api/include/"
+                "/scratch/workspaceblobstore/LocalUpload/User/sahuamrit/Repo/libtorch/include/**",
+                "/opt/conda/envs/ptca/include/python3.8"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/gcc",
